@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anastassia Anderson
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter/dart and WordPress
+- 🌱 I’m currently learning flutter/dart and Laravel
 - 💞️ I’m looking to collaborate on small open source projects with flexible timelines
 - 📫 How to reach me anderson.anastassia@gmail.com or @AnaAnderson101 on twitter
 
